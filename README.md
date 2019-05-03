@@ -29,9 +29,9 @@ Also a video is being played in the background.
 
 [See the Code](https://github.com/IamVaibhavsar/Front_End_Web_Projects/blob/master/02Tasty%20Bite%20Restaurant/index.html "Tasty Byte Restaurant")
 
-![Site Preview](https://drive.google.com/file/d/1wakFsq9XOlFPfM8vMxhekFw7nHxPnUXF/view?usp=sharing "Tasty Byte Restaurant")
+![Site Preview](https://github.com/IamVaibhavsar/Front_End_Web_Projects/blob/master/02Tasty%20Bite%20Restaurant/restaurant1.png "Tasty Byte Restaurant")
 
-![Site Preview](https://drive.google.com/file/d/18iF0W10ZnVV4ZhWPj9Bkg5qbz422hRd2/view?usp=sharing "Tasty Byte Restaurant")
+![Site Preview](https://github.com/IamVaibhavsar/Front_End_Web_Projects/blob/master/02Tasty%20Bite%20Restaurant/restaurant2.png "Tasty Byte Restaurant")
 
 ***
 
