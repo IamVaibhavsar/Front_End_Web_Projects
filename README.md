@@ -17,7 +17,7 @@ A Gym site front page Designed using HTML and CSS.
 
 [See the Code](https://github.com/IamVaibhavsar/Front_End_Web_Projects/blob/master/01Gym%20Coming%20Soon!/index.html "Gym Coming Soon!")
 
-![Site Preview](https://github.com/IamVaibhavsar/Front_End_Web_Projects/blob/master/01Gym%20Coming%20Soon!/Gym.png "FIT LIFE GYM")
+![Site Preview](https://github.com/IamVaibhavsar/Front_End_Web_Projects/blob/master/GymNew.png "FIT LIFE GYM")
 
 
 ***
